@@ -1,2 +1,2 @@
 # SoftUni_Python_Fund
-problems form SoftUni Python fundamentals
+Problems/solutions from SoftUni Python fundamentals course
